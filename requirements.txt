@@ -4,5 +4,5 @@ langchain-core==0.2.39
 langchain-community==0.2.12
 langchain-groq==0.1.9
 pandas==2.0.2
-dotenv==1.2.3
+dotenv
 fewshot
